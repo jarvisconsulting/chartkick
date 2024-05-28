@@ -1404,6 +1404,7 @@
       viewWindow: {}
     },
     vAxis: {
+      maxTextLines: 1,
       textStyle: {
         color: "#666",
         fontSize: 12
